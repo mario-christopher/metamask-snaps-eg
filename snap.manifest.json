@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "description": "A Metamask Snap example.",
+  "proposedName": "metamask-snap-eg",
+  "source": {
+    "shasum": "CYH4GIaLEzUwiop6ppkhT7yafqCkl84LI4Dk9cd9428=",
+    "location": {
+      "npm": {
+        "filePath": "dist/bundle.js",
+        "packageName": "metamask-snap-eg",
+        "registry": "https://registry.npmjs.org"
+      }
+    }
+  },
+  "initialPermissions": {
+    "snap_confirm": {}
+  },
+  "manifestVersion": "0.1"
+}
