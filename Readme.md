@@ -16,11 +16,11 @@ To try out this project, follow these steps:
 
 - Build the project files (*This transpiles the Typescript files followed by building the snap bundle*)
 
-    `npx run build`
+    `npm run build`
 
 - Serve the Project (*This runs a server and serves out a page on http://localhost:8081/*).
 
-    `npx run serve`
+    `npm run serve`
 
 - Browse to the page : http://localhost:8081/
 - Follow the instructions on the page.
